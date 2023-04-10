@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SUBSCRIBE YOUTUBEKU</title>
+	<style>
+		body {
+			background-color: #222;
+			font-family: Arial, sans-serif;
+		}
+		
+		.header {
+			background-color: #f00;
+			color: #fff;
+			text-align: center;
+			padding: 20px;
+		}
+		
+		h1 {
+			font-size: 48px;
+			margin: 0;
+		}
+		
+		.container {
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 40px;
+			background-color: #333;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+			border-radius: 10px;
+		}
+		
+		.btn {
+			display: block;
+			background-color: #f00;
+			color: #fff;
+			padding: 10px 20px;
+			border-radius: 5px;
+			text-decoration: none;
+			font-size: 24px;
+			transition: all 0.2s ease;
+			margin-bottom: 10px;
+			text-align: center;
+			width: 80%;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		
+		.btn:hover {
+			background-color: #c00;
+			cursor: pointer;
+		}
+	</style>
+</head>
+<body>
+	<header class="header">
+		<h1>PAZE IJODAN</h1>
+	</header>
+	<div class="container">
+		<a href="https://www.youtube.com/results?search_query=pazeee" class="btn">Youtube Pazeee</a>
+		<a href="https://www.youtube.com/results?search_query=paze+ijodan" class="btn">Youtube Paze Ijodan</a>
+		<a href="https://www.tiktok.com/search?q=paze+ijodan" class="btn">Tiktok Pazeee</a>
+	</div>
+</body>
+</html>
